@@ -32,7 +32,7 @@ A nimble, feature-packed robotic car powered by the **Raspberry Pi Pico W (RP204
 
 | Port | Connected To | Function |
 | :--- | :--- | :--- |
-| **GROVE7* | HC-SR04; Yellow=Trigger & White=echo| Obstacle Detection|
+| **GROVE7** | HC-SR04; Yellow=Trigger & White=echo| Obstacle Detection|
 | **GROVE5** | Line follower sensor; Yellow=Analog | Line following |
 | **GROVE4** | Indicator LEDs; Yellow=Left LED Anode & White=Right LED Anode | Turn Indicators |
 | **GROVE2** | Photoresistor (LDR); Yellow=AO & White=DO | Light intensity |
@@ -60,3 +60,5 @@ A nimble, feature-packed robotic car powered by the **Raspberry Pi Pico W (RP204
 4. Restart the Pico and you should hear the boot tone from the Pico and the ARGB Leds should turn on after a few seconds. Note that it takes around 5-6 seconds for it to boot.
 
 ---
+
+Refer to <a href="images/">Images & Videos</a>
