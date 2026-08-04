@@ -16,4 +16,4 @@ For more information on the Robo Pico, check out the datasheet here:
 * [Robo Pico Datasheet](https://docs.google.com/document/d/1X67yKga7m5pugBcogww6pyR2YHXwRJL79_nNDLTYcKU/edit?usp=sharing)  
 
 ## Support  
-If you need further assistance, please contact us at (https://m.me/cytrontech) or email to technical team (support@cytron.io) and our team will be happy to assist you.
+If you need further assistance, please raise an issue on <a href="https://www.github.com/ishitbhargava/PicoCar">GitHub</a>.
