@@ -28,14 +28,14 @@ A nimble, feature-packed robotic car powered by the **Raspberry Pi Pico W (RP204
 
 | Port | Connected To | Function |
 | :--- | :--- | :--- |
-| **GROVE7* | HC-SR04; Yellow=Trigger & White=echo| Left Motor Speed |
-| **GROVE5** | Line follower sensor; Yellow=Analog | Left Motor Direction 1 |
-| **GROVE4** | Indicator LEDs; Yellow=Left LED Anode & White=Right LED Anode | Left Motor Direction 2 |
-| **GROVE2** | Photoresistor (LDR); Yellow=AO & White=DO | Right Motor Direction 1 |
-| **Servo12** | Radio  | Right Motor Direction 2 |
-| **Servo13** | Radio | Right Motor Speed |
-| **Servo14** | Radio | Distance Measurement (Trigger) |
-| **Servo15** | Radio | Distance Measurement (Echo) |
+| **GROVE7* | HC-SR04; Yellow=Trigger & White=echo| Obstacle Detection|
+| **GROVE5** | Line follower sensor; Yellow=Analog | Line following |
+| **GROVE4** | Indicator LEDs; Yellow=Left LED Anode & White=Right LED Anode | Turn Indicators |
+| **GROVE2** | Photoresistor (LDR); Yellow=AO & White=DO | Light intensity |
+| **Servo12** | Radio CH3 | Left motor speed |
+| **Servo13** | Radio CH1 | Not used |
+| **Servo14** | Radio CH2 | Right motor speed |
+| **Servo15** | Radio CH4 | Not used |
 
 ---
 
