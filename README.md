@@ -18,9 +18,13 @@ A nimble, feature-packed robotic car powered by the **Raspberry Pi Pico W (RP204
 | :--- | :--- |
 | **Microcontroller** | Raspberry Pi Pico W |
 | **Motor Driver** | <a href="https://my.cytron.io/p-robo-pico-simplifying-robotics-with-raspberry-pi-pico?srsltid=AfmBOor6v5G5z6pB7KaFBMDgH33y66E1BaDct4PWbV_ZHkpGlH2xZ7rh&r=1">Cytron Robo Pico controller</a>|
-| **Actuators** | 2x DC Gear Motors with wheels |
+| **Actuators** | 2x DC Gear Motors with 65mm wheels |
 | **Sensor** | HC-SR04 Ultrasonic Distance Sensor |
-| **Power Supply** | 2S 2600 Milliamp-hour Li-ion battery |
+| **Photoresistor** | <a href="https://robu.in/product/digital-ldr-module/">LDR Module</a> |
+| **Buck Converter** | LM2596 set to 5.5v Output |
+| **Radio** | TX=FS-I6X & RX=FS-IA6 |
+| **LEDs** | 3mm Yellow LEDs |
+| **Line follower** | <a href="https://robu.in/product/maker-line-simplifying-line-sensor-for-beginner/">Maker Line</a> |
 
 ---
 
